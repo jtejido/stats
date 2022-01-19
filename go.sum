@@ -1,0 +1,6 @@
+github.com/jtejido/ggsl v0.0.0-20200524201945-4076179cce8a h1:T9XE8PSWlP/u1Id2X1+oheANC84+oM+Mi1BN9apMC9A=
+github.com/jtejido/ggsl v0.0.0-20200524201945-4076179cce8a/go.mod h1:+jL1I3QGUV/wYqGDf0Qi5MeXdfrq+kM5bRI4LwdGYjc=
+github.com/jtejido/linear v0.0.0-20200606162532-eb8303364234 h1:yB+L8ViJ6MDtMKaKlvdxsjryb6KF35JqSoPydSLQWks=
+github.com/jtejido/roots v0.0.0-20220119092011-bc99a067c0dc h1:c17HjWQJHWWveG5J68Ap52sc2Kt5wVs/XxB51YW8FN0=
+github.com/jtejido/trig v0.0.0-20220119091849-45c20270c885 h1:vnDfl+uRH5iSJ87+HzHkvh1tEWEyzdjPXpljBJkR10I=
+github.com/jtejido/trig v0.0.0-20220119091849-45c20270c885/go.mod h1:zVMKUY27dmVXVqvz1GHLOasd//K9RpUYzrk8iTPyxTw=
